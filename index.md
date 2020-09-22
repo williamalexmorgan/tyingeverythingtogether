@@ -3,13 +3,13 @@
 <br/>
 <br/>
 <br/>
-### Recent Projects
+### _Recent Projects_
 <br/>
 _Coming Soon_
 <br/>
 <br/>
 <br/>
-### Older Projects (2019 and back)
+### _Older Projects (2019 and back)_
 <br/>
 [**Undergraduate Projects**](https://williamalexmorgan.github.io/Undergraduate-Programming-Projects/)
 <br/>
